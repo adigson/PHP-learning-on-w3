@@ -1,1 +1,1 @@
-Revieiting ny learning and tutorials about php.
+Revisiting ny learning and tutorials about php.
